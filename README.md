@@ -1,2 +1,3 @@
 # Natural Language Processing
-The basics of Spacy and to predict the movie reviews 
+The basics of Spacy, Sentiment analysis, Text Generation
+
